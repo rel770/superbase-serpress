@@ -16,5 +16,10 @@
     "url": "https://github.com/rel770/superbase-serpress/issues"
   },
   "homepage": "https://github.com/rel770/superbase-serpress#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.51.0",
+    "dotenv": "^17.2.0",
+    "express": "^5.1.0"
+  }
 }
